@@ -13,9 +13,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "order")
 public class Order {
- 
-	
-	
+ 	
 	@Id
 	@Column(name = "id_order")
 	@GeneratedValue
