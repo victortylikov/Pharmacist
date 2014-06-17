@@ -14,6 +14,7 @@ import javax.persistence.Table;
 @Table(name = "order")
 public class Order {
 
+	
 	@Id
 	@Column(name = "id_order")
 	@GeneratedValue
