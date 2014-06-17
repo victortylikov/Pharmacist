@@ -20,6 +20,7 @@ public class Client {
 	@GeneratedValue
 	private Integer idClient;
 
+	
 	@Column(name = "first_name")
 	private String firstName;
 
