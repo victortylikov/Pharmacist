@@ -1,4 +1,4 @@
-package com.victortylikov.spring.dao;
+package com.victortylikov.spring.domain;
 
 import java.sql.Date;
 
