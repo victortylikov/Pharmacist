@@ -15,7 +15,7 @@
 			<h1 id="reg">Здравствуйте</h1>
 			<p id="pre_p">Пожалуйста, заполните поля.</p>
 			<div id="reg_form">
-				 <form:form action="addUserPost" modelAttribute="user" class="form">
+			<form:form action="addUserPost" modelAttribute="user" class="form">
 					<p class="form_p">
 						<label for="login">Логин:</label>
 						<form:input path="login" autocomplete="off" id="input_st"  />
